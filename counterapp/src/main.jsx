@@ -13,4 +13,4 @@ Warns about legacy APIs - like string refs, findDOMNode
 Double-invokes functions - to detect side effects:
 
 Component functions render twice
-useState initializers run twice*/
+useState initializers run twice*/

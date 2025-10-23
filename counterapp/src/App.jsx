@@ -26,4 +26,4 @@ function App() {
 }
 
 export default App
-//  bridge between your HTML page and React application
+//  bridge between your HTML page and React application
